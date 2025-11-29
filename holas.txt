@@ -1,4 +1,12 @@
 hola hola 
 como estas 
 
-kkkkkkkk
+1. local
+untracked
+
+2. staggin
+git commit -m " comentario"
+
+3. web
+Modified
+Deleted
