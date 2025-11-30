@@ -11,3 +11,10 @@ img{
     border-radius: 5px;
     cursor: pointer;
 }
+
+.galeria {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columnas, puedes poner 3 si quieres */
+    gap: 20px; /* separación entre imágenes */
+    padding: 20px;
+}
